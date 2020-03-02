@@ -1,4 +1,4 @@
-names = ["Akira", "Emmery", "Dia", "Erick", "Nadja"]
+names = ["Akira", "Emmery", "Dia", "Erick", "Nadja",]
 ages = [14, 16, 17, 14, 18, 15]
 
 for i in range(6):
